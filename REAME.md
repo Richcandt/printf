@@ -1,1 +1,0 @@
-Authorized functions and macros
